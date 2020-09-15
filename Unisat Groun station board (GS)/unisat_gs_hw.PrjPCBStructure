@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=00_Main.SchDoc
+Record=SheetSymbol|SourceDocument=00_Main.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=02_MCU.SchDoc|SymbolType=Normal|RawFileName=02_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00_Main.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=01_Power.SchDoc|SymbolType=Normal|RawFileName=01_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00_Main.SchDoc|Designator=RF|SchDesignator=RF|FileName=03_RADIO.SchDoc|SymbolType=Normal|RawFileName=03_RADIO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00_Main.SchDoc|Designator=SIM|SchDesignator=SIM|FileName=04_SIM.SchDoc|SymbolType=Normal|RawFileName=04_SIM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=00_Main.SchDoc|Designator=USB|SchDesignator=USB|FileName=05_USB.SchDoc|SymbolType=Normal|RawFileName=05_USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
